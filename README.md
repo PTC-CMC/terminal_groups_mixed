@@ -24,7 +24,7 @@ is located, e.g.
 #### Clone and install atools
 commit 320523d91535e497b5dbc2b6a821cc0453985055
 
-`>> git clone https://github.com/summeraz/atools.git`
+`>> git clone https://github.com/PTC-CMC/atools.git`
 
 `>> pip install .`
 
@@ -55,7 +55,7 @@ should be installed automatically.
 ```
 
 #### Clone the terminal_groups_mixed repository
-`>> git clone https://github.com/summeraz/terminal_groups_mixed.git`
+`>> git clone https://github.com/PTC-CMC/terminal_groups_mixed.git`
 
 #### Initialize the project
 Note: All flow commands must be performed from the project root directory.
