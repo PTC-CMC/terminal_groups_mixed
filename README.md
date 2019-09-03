@@ -14,7 +14,7 @@ Note: I did this and in the /ccs/proj/ directory on Titan
 `>> conda create --name myconda python=3.5`
 
 #### Activate the environment
-`>> source activate myconda`
+`>> conda activate myconda`
 
 Note: You may have to first append to your path the directory where anaconda
 is located, e.g.
